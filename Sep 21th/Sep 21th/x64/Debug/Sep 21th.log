@@ -1,0 +1,4 @@
+﻿  9 21.c
+C:\c#130\Sep 21th\Sep 21th\9 21.c(38,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\c#130\Sep 21th\Sep 21th\9 21.c(39,1): warning C4305: “初始化”: 从“double”到“float”截断
+  Sep 21th.vcxproj -> C:\c#130\Sep 21th\x64\Debug\Sep 21th.exe
